@@ -1,16 +1,25 @@
-## Hi there 👋
+```text
+██████╗ ██╗███████╗██╗    ██╗ █████╗      ██╗██╗████████╗██╗  ██╗
+██╔══██╗██║██╔════╝██║    ██║██╔══██╗     ██║██║╚══██╔══╝██║  ██║
+██████╔╝██║███████╗██║ █╗ ██║███████║     ██║██║   ██║   ███████║
+██╔══██╗██║╚════██║██║███╗██║██╔══██║██   ██║██║   ██║   ██╔══██║
+██████╔╝██║███████║╚███╔███╔╝██║  ██║╚█████╔╝██║   ██║   ██║  ██║
+╚═════╝ ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝
 
-<!--
-**biswajith2005/biswajith2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       .--------.             biswajith@github
+      / .------. \            ─────────────────────────────────────
+     / /        \ \           OS          : Windows 11
+     | |        | |           Host        : GitHub
+    _| |________| |_          Kernel      : B.Tech Computer Science
+  .' |_|        |_| '.        IDE         : VS Code
+  '._____ ____ _____.'        Languages   : Java, Python, JavaScript
+  |     .'____'.     |        Frontend    : React, HTML, CSS
+  '.__.'.'    '.'.__.'        Backend     : Node.js, Firebase
+  '.__  |      |  __.'        Interests   : AI Engineering, Full Stack, DSA
+  |   '.'.____.'.'   |        Hobbies     : Gaming, Coding, Exploring AI
+  '.____'.____.'____.'        Currently   : Building AI & Web Projects
+  '.________________.'        Status      : Learning. Building. Improving.
+                              Uptime      : 20+ years
+                              Contact     : LinkedIn | GitHub
+```
