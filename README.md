@@ -23,3 +23,5 @@
                               Uptime      : 20+ years
                               Contact     : LinkedIn | GitHub
 ```
+## 📊 GitHub Stats
+![Biswajith's GitHub Stats](https://github-readme-stats-five-mu-37.vercel.app/api?username=biswajith2005&show_icons=true&theme=github_dark&hide_border=true)
